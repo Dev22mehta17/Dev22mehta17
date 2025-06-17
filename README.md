@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **Strengthening and refining my skill set to enhance professional capabilities and align with industry standards.**
 
-- 🌱 I’m currently learning **AI/ML with a focus on real-world applications.**
+- 🌱 I’m currently learning and improving **my skills with focus on real-world applications.**
 
 - 👯 I’m looking to collaborate on **some good full-stacks projects.**
-
+ 
 - 📫 How to reach me **mehtadev2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
