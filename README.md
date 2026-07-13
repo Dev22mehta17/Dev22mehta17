@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dev Mehta</h1>
-<h3 align="center">I'm a third-year BTech CSE student with a passion for building innovative projects and solving challenging problems. Whether it's AI/ML or front-end wizardry, I love exploring new tech and bringing ideas to life. 🚀</h3>
+<h3 align="center">Software Engineer | Ex-Amazon SDE Intern | Full Stack Developer.
+
+ 
+ I'm a Computer Engineering graduate passionate about building scalable software, distributed systems, and intuitive web applications. I enjoy solving challenging engineering problems and turning ideas into reliable, production-ready solutions.
+During my Software Development Engineer Internship at Amazon, I worked on real-world software systems, collaborated with cross-functional teams, and gained hands-on experience developing scalable applications. I continue to explore modern backend technologies, cloud services, and full-stack development while strengthening my problem-solving skills.🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Dev22mehta17/Dev-Mehta/blob/main/image.gif ">
+ 💼 Former Software Development Engineer Intern at Amazon.
 
+- 💻 Passionate about Backend Development, Full Stack Engineering, and Distributed Systems.
+  
+- 🌱 Currently exploring System Design, Cloud Technologies (AWS), Microservices, and Scalable Architectures.
+  
 - 🔭 I’m currently working on **Strengthening and refining my skill set to enhance professional capabilities and align with industry standards.**
 
 - 🌱 I’m currently learning and improving **my skills with focus on real-world applications.**
