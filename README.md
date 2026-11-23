@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Mehta</h1>
-<h3 align="center">Software Engineer | Ex-Amazon SDE Intern | Full Stack Developer.
+<h3 align="center">Software Engineer at Bupa Capability Center | Ex-Amazon SDE Intern | Full Stack Developer.
 
  
  I'm a Computer Engineering graduate passionate about building scalable software, distributed systems, and intuitive web applications. I enjoy solving challenging engineering problems and turning ideas into reliable, production-ready solutions.
